@@ -5,7 +5,7 @@
 </a>
 
 
-## I'm a Computer Science and Engineering Student Specialization in AI & ML
+## I'm a Computer Science and Engineering Student 
 
 - 📚 Persuing B.Tech from Vellore Institute of Technology, Chennai.
 - 💻 Full Stack Android Developer .
