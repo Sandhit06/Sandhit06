@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sandhit</h1>
 
 
-## I'm a Computer Science and Engineering Student Specialiazation in AI & ML
+## I'm a Computer Science and Engineering Student Specialization in AI & ML
 
 - 📚 Persuing B.Tech from Vellore Institute of Technology, Chennai.
 - 💻 Full Stack Android Developer .
