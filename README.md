@@ -27,7 +27,7 @@
 ### Languages and Tools 🛠 
 
 <a href="#">
-    <img src="https://skillicons.dev/icons?i=androidstudio,flutter,firebase,kotlin,vscode,dart,cpp,java,py,git,github,figma,ps,xd,pr&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,flutter,firebase,kotlin,vscode,dart,cpp,java,py,html,css,js,git,github,linux,figma,ps,xd,pr&theme=dark" />
   </a>
 
 ## 📊 GitHub Stats:
