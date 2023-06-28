@@ -7,9 +7,9 @@
 
 ## I'm a Computer Science and Engineering Student 
 
-- 📚 Persuing B.Tech from Vellore Institute of Technology, Chennai.
+- 📚 Persuing B.Tech from Vellore Institute of Technology, Chennai .
 - 💻 Full Stack Android Developer .
-- 💞️ Loves to participate in Hackathons.
+- 💞️ Loves to participate in Hackathons .
 - 📫 You can reach me out at sandhitkarmakar@gmail.com  
 
 
