@@ -9,7 +9,7 @@
 
 - 📚 Persuing B.Tech from Vellore Institute of Technology, Chennai.
 - 💻 Full Stack Android Developer .
-- 💞️ Loves to participate in hackathons.
+- 💞️ Loves to participate in Hackathons.
 - 📫 You can reach me out at sandhitkarmakar@gmail.com  
 
 
