@@ -1,5 +1,5 @@
 ![logo](https://github.com/Sandhit06/Sandhit06/blob/master/Sandhit.png)
-<h1 align="center"> Hello 👋, I'm Sandhit </h1>
+<h1 align="center"> Hii 👋, I'm Sandhit </h1>
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Sandhit&label=Profile%20Views&color=6&icon=0&pretty=false" />
 </a>
