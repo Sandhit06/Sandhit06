@@ -32,6 +32,6 @@
 
 ## 📊 GitHub Stats:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandhit06&show_icons=true&locale=en" alt="sandhit06" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandhit06&theme=dark&show_icons=true&locale=en" alt="sandhit06" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandhit06&" alt="sandhit06" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandhit06&&theme=dark" alt="sandhit06" /></p>
