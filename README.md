@@ -1,8 +1,6 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+.+This+Is+Sandhit+!+%F0%9F%91%8B;Nice+To+Meet+You+!" alt="Typing SVG" /></a>
 ![logo](https://github.com/Sandhit06/Sandhit06/blob/master/Sandhit.png)
-<h1 align="center"> Hii 👋, I'm Sandhit </h1>
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Sandhit&label=Profile%20Views&color=6&icon=0&pretty=false" />
-</a>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujaygh0sh&label=Profile%20views&color=0e75b6&style=flat" alt="sujaygh0sh" /> </p>
