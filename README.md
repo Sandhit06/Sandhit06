@@ -2,9 +2,9 @@
 
 ![Animated Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&width=435&lines=Hii+%F0%9F%91%8B+I'm+Sandhit;Happy+Stalking+!+" alt="Typing SVG" />
-</p>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&width=325&lines=Hii+%F0%9F%91%8B+I'm+Sandhit;Happy+Stalking+!+" alt="Typing SVG" /></a>
+</div>
 
 <h3 align="center">Developer with No Rizzz !</h3>
 
