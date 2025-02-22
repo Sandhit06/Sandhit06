@@ -23,7 +23,7 @@ Hobbies: Table Tennis, PS5
 Reach-me-at: sandhitkarmakar@gmail.com
 ```
 
-<h2 align="left">🧑🏻‍💻 &nbsp; Connect with me </h2>
+<h2 align="left">🧑🏻‍💻 &nbsp; Connect with me <img src = "https://media.tenor.com/SGsJK81GW9oAAAAi/shark-lost-connection-lost-connection.gif" width = 35px></h2> 
 <p align="left">
 <a href="https://dev.to/sandhit06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sandhit06" height="30" width="40" /></a>
 <a href="https://twitter.com/sandhitk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sandhitk" height="30" width="40" /></a>
