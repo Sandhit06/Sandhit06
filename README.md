@@ -62,6 +62,6 @@ Reach-me-at: sandhitkarmakar@gmail.com
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandhit06&layout=compact&theme=transparent&hide_border=true&show_icons=true )
 
 <p>
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=100&color=000000&text=Follow%20for%20follow%20back&fontColor=FFD700&fontSize=40&animation=blinking"
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=100&color=000000&text=Follow%20for%20follow%20back!&fontColor=FFD700&fontSize=40&animation=blinking"
 </p>
 
