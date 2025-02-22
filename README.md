@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://camo.githubusercontent.com/1ea65d0a5ae84766cf2b6ab7f3d8bb0619554d37bf9f96f836a5c8c1c21faf23/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d73756a61796768307368266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="sandhit06" /> </p>
 
-<img align="right" alt="Image" width="200" height="150" src="https://github.com/Sandhit06/Sandhit06/blob/master/image.jpg">
+<img align="right" alt="Image" width="200" height="180" src="https://github.com/Sandhit06/Sandhit06/blob/master/image.jpg">
 
 ```yaml
 Name: Sandhit Karmakar
