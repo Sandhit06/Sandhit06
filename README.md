@@ -53,16 +53,15 @@ Reach-me-at: sandhitkarmakar@gmail.com
 [![Sandhit06's GitHub | Languages Over Time](https://stats.quira.sh/Sandhit06/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Sandhit06)
 [![Sandhit06's GitHub | Topics Over Time](https://stats.quira.sh/Sandhit06/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Sandhit06)
 
-![Aritro's GitHub stats](https://github-readme-stats.vercel.app/api?username=halcyon-past&show_icons=true&theme=transparent&hide_border=true&text_color=#ab20fd)
+![Sandhit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandhit06&show_icons=true&theme=transparent&hide_border=true&text_color=#ab20fd)
 
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=halcyon-past&theme=2077" height="210em" alt="Top languages by commit" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sandhit06&theme=2077" height="210em" alt="Top languages by commit" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=halcyon-past&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sandhit06&theme=hacker)](https://git.io/streak-stats)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=halcyon-past&layout=compact&theme=transparent&hide_border=true&show_icons=true )
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandhit06&layout=compact&theme=transparent&hide_border=true&show_icons=true )
 
-![GithubSnake](https://github.com/halcyon-past/halcyon-past/blob/output/github-snake.svg%20dist/github-snake-dark.svg)
-
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&text=Thanks%20For%20Visiting&section=footer"/>
+<p>
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=100&color=000000&text=Follow%20for%20follow%20back&fontColor=FFD700&fontSize=40&animation=blinking"
 </p>
+
