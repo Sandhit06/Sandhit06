@@ -49,10 +49,20 @@ Reach-me-at: sandhitkarmakar@gmail.com
 
 ![3d-profile](profile-3d-contrib/profile-night-green.svg)
 
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sandhit06&theme=2077" height="210em" alt="Top languages by commit" />
+[![Sandhit06's GitHub | Stats](https://stats.quira.sh/Sandhit06/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Sandhit06)
+[![Sandhit06's GitHub | Languages Over Time](https://stats.quira.sh/Sandhit06/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Sandhit06)
+[![Sandhit06's GitHub | Topics Over Time](https://stats.quira.sh/Sandhit06/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Sandhit06)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Sandhit06&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)
+![Aritro's GitHub stats](https://github-readme-stats.vercel.app/api?username=halcyon-past&show_icons=true&theme=transparent&hide_border=true&text_color=#ab20fd)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandhit06&layout=compact&theme=transparent&hide_border=true&show_icons=true)
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=halcyon-past&theme=2077" height="210em" alt="Top languages by commit" />
 
-![GithubSnake](https://github.com/Sandhit06/Sandhit06/blob/output/github-snake.svg%20dist/github-snake-dark.svg)
+![GitHub Streak](https://streak-stats.demolab.com?user=halcyon-past&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=halcyon-past&layout=compact&theme=transparent&hide_border=true&show_icons=true )
+
+![GithubSnake](https://github.com/halcyon-past/halcyon-past/blob/output/github-snake.svg%20dist/github-snake-dark.svg)
+
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&text=Thanks%20For%20Visiting&section=footer"/>
+</p>
