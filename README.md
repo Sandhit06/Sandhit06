@@ -17,9 +17,9 @@ Name: Sandhit Karmakar
 Occupation: Student
 Branch: Computer Science Engineering Spec. AI & ML
 University: Vellore Institute of Technology, Chennai
-Interests: Android Dev
+Interests: Android Dev, Cybersecurity, Game Dev
 Currently-Learning: React
-Hobbies: Table Tennis
+Hobbies: Table Tennis, PS5
 Reach-me-at: sandhitkarmakar@gmail.com
 ```
 
