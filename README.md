@@ -56,8 +56,7 @@ Reach-me-at: sandhitkarmakar@gmail.com
     />
   </a>
 </p>
-<a href="https://app.daily.dev/sandhit06" target="_blank">
-  <img align="left" src="https://api.daily.dev/devcards/v2/auKpGoem3WLkNiWSDkbnT.png?type=default&r=97t" width="280" width="280" alt="Sandhit's Dev Card"/>
+<a href="https://app.daily.dev/sandhit06"><img src="https://api.daily.dev/devcards/v2/auKpGoem3WLkNiWSDkbnT.png?type=default&r=hp0" width="356" alt="Sandhit's Dev Card"/></a>
 </a>
 
 <br clear="both">
