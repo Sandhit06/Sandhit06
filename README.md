@@ -28,13 +28,25 @@ Reach-me-at: sandhitkarmakar@gmail.com
 ```
 
 <h2 align="left">🧑🏻‍💻 &nbsp; Connect with me <img src = "https://media.tenor.com/SGsJK81GW9oAAAAi/shark-lost-connection-lost-connection.gif" width = 35px></h2> 
-<p align="left">
-<a href="https://dev.to/sandhit06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sandhit06" height="30" width="40" /></a>
-<a href="https://twitter.com/sandhitk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sandhitk" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sandhit-karmakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandhit-karmakar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22609588" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22609588" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sandhit_06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sandhit_06" height="30" width="40" /></a>
-</p>
+
+<div align="left">
+  <a href="https://dev.to/sandhit06" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sandhit06" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/sandhitk" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sandhitk" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/sandhit-karmakar" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandhit-karmakar" height="30" width="40" />
+  </a>
+  <a href="https://stackoverflow.com/users/22609588" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22609588" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/sandhit_06" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sandhit_06" height="30" width="40" />
+  </a>
+</div>
+
 
 <h2 align="left">📚 &nbsp; Languages and Tools <img src = "https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif" width = 35px></h2>
 <p align="left">
@@ -44,6 +56,11 @@ Reach-me-at: sandhitkarmakar@gmail.com
     />
   </a>
 </p>
+<a href="https://app.daily.dev/sandhit06" target="_blank">
+  <img align="left" src="https://api.daily.dev/devcards/v2/auKpGoem3WLkNiWSDkbnT.png?type=default&r=97t" width="280" width="280" alt="Sandhit's Dev Card"/>
+</a>
+
+<br clear="both">
 
 <h2> 📈 &nbsp;LeetCode Stats! <img src = "https://media.tenor.com/LSHKMiRdLggAAAAi/statistics-trending-up.gif" width = 35px></h2>
 
