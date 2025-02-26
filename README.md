@@ -27,7 +27,9 @@ Ask me about: Android Development
 Reach-me-at: sandhitkarmakar@gmail.com
 ```
 
-<h2 align="left">🧑🏻‍💻 &nbsp; Connect with me <img src = "https://media.tenor.com/SGsJK81GW9oAAAAi/shark-lost-connection-lost-connection.gif" width = 35px></h2> 
+<h2 align="left">🧑🏻‍💻 &nbsp; Connect with me 
+  <img src="https://media.tenor.com/SGsJK81GW9oAAAAi/shark-lost-connection-lost-connection.gif" width="35px">
+</h2> 
 
 <div align="left">
   <a href="https://dev.to/sandhit06" target="blank">
@@ -47,6 +49,15 @@ Reach-me-at: sandhitkarmakar@gmail.com
   </a>
 </div>
 
+<!-- Add spacing between social links and the dev card -->
+<br>
+
+<a href="https://app.daily.dev/sandhit06">
+  <img src="https://api.daily.dev/devcards/v2/auKpGoem3WLkNiWSDkbnT.png?type=default&r=hp0" width="356" alt="Sandhit's Dev Card"/>
+</a>
+
+<br clear="both">
+
 
 <h2 align="left">📚 &nbsp; Languages and Tools <img src = "https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif" width = 35px></h2>
 <p align="left">
@@ -56,10 +67,7 @@ Reach-me-at: sandhitkarmakar@gmail.com
     />
   </a>
 </p>
-<a href="https://app.daily.dev/sandhit06"><img src="https://api.daily.dev/devcards/v2/auKpGoem3WLkNiWSDkbnT.png?type=default&r=hp0" width="356" alt="Sandhit's Dev Card"/></a>
-</a>
 
-<br clear="both">
 
 <h2> 📈 &nbsp;LeetCode Stats! <img src = "https://media.tenor.com/LSHKMiRdLggAAAAi/statistics-trending-up.gif" width = 35px></h2>
 
