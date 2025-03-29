@@ -47,6 +47,7 @@ Reach-me-at: sandhitkarmakar@gmail.com
   <a href="https://www.leetcode.com/sandhit_06" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sandhit_06" height="30" width="40" />
   </a>
+  <a href="https://www.instagram.com/rizdhitz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saumyxa" height="30" width="40" /></a>
 </div>
 
 <!-- Add spacing between social links and the dev card -->
