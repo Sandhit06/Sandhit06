@@ -78,9 +78,9 @@ Reach-me-at: sandhitkarmakar@gmail.com
 
 ![3d-profile](profile-3d-contrib/profile-night-green.svg)
 
-[![Sandhit06's GitHub | Stats](https://stats.quira.sh/Sandhit06/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Sandhit06)
+<!-- [![Sandhit06's GitHub | Stats](https://stats.quira.sh/Sandhit06/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Sandhit06)
 [![Sandhit06's GitHub | Languages Over Time](https://stats.quira.sh/Sandhit06/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Sandhit06)
-[![Sandhit06's GitHub | Topics Over Time](https://stats.quira.sh/Sandhit06/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Sandhit06)
+[![Sandhit06's GitHub | Topics Over Time](https://stats.quira.sh/Sandhit06/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Sandhit06) -->
 
 ![Sandhit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandhit06&show_icons=true&theme=transparent&hide_border=true&text_color=#ab20fd)
 
@@ -91,6 +91,13 @@ Reach-me-at: sandhitkarmakar@gmail.com
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandhit06&layout=compact&theme=transparent&hide_border=true&show_icons=true )
 
 <p>
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=100&color=000000&text=Follow%20for%20follow%20back!&fontColor=FFD700&fontSize=40&animation=blinking"
+ <div align=center>  
+  </div>
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandhit06&bg_color=242424&color=e1dbe1&line=3eda58&point=ffffff&area=true&hide_border=true)%5D(https://github.com/ashutosh00710/github-readme-activity-graph" width="100%" alt="github activity graph"/>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&height=120&width=200&color=000000&text=Follow%20for%20Follow%20Back!&fontColor=FFD700&fontSize=40&animation=blinking" 
+     style="display: block; margin: auto;">
+
 
