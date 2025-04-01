@@ -57,7 +57,7 @@ Reach-me-at: sandhitkarmakar@gmail.com
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=uden22m7keq52iqa3zonzjr0y&redirect=true" style="vertical-align: top;">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=uden22m7keq52iqa3zonzjr0y&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing"/>
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316llgvbahd3u32rdeqbobjzp55e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing"/>
 </a>
 
 
@@ -108,5 +108,4 @@ Reach-me-at: sandhitkarmakar@gmail.com
 <img src="https://capsule-render.vercel.app/api?type=soft&height=120&width=200&color=000000&text=Follow%20for%20Follow%20Back!&fontColor=FFD700&fontSize=40&animation=blinking" 
      style="display: block; margin: auto;">
 
-[![Hacker Style GIF](https://miro.medium.com/v2/resize:fit:1400/0*Gh_H2-2Pe2SyfAkb.gif)](https://www.pinterest.com/pin/271623421269859902/)
-
+<img alt="Hacker GIF" width="1050" height="700" src="https://miro.medium.com/v2/resize:fit:1400/0*Gh_H2-2Pe2SyfAkb.gif">
