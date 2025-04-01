@@ -47,15 +47,16 @@ Reach-me-at: sandhitkarmakar@gmail.com
   <a href="https://www.leetcode.com/sandhit_06" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sandhit_06" height="30" width="40" />
   </a>
-  <a href="https://www.instagram.com/rizdhitz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saumyxa" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/rizdhitz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandhit" height="30" width="40" /></a>
 </div>
+
 <br>
 
 <!-- Add spacing between social links and the dev card -->
 <a href="https://app.daily.dev/sandhit06">
   <img src="https://api.daily.dev/devcards/v2/auKpGoem3WLkNiWSDkbnT.png?type=default&r=hp0" width="360" alt="Sandhit's Dev Card"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=uden22m7keq52iqa3zonzjr0y&redirect=true" style="vertical-align: top;">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316llgvbahd3u32rdeqbobjzp55e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing"/>
 </a>
