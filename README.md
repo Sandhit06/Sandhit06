@@ -108,4 +108,4 @@ Reach-me-at: sandhitkarmakar@gmail.com
 <img src="https://capsule-render.vercel.app/api?type=soft&height=120&width=200&color=000000&text=Follow%20for%20Follow%20Back!&fontColor=FFD700&fontSize=40&animation=blinking" 
      style="display: block; margin: auto;">
 
-<img alt="Hacker GIF" width="1050" height="600" src="https://miro.medium.com/v2/resize:fit:1400/0*Gh_H2-2Pe2SyfAkb.gif">
+<img alt="Hacker GIF" width="1050" height="550" src="https://miro.medium.com/v2/resize:fit:1400/0*Gh_H2-2Pe2SyfAkb.gif">
