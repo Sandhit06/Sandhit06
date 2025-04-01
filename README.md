@@ -84,7 +84,7 @@ Reach-me-at: sandhitkarmakar@gmail.com
 
 <div align="center">
   <!-- First Row: GitHub Stats & Most Commit Language -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Sandhit06&show_icons=true&theme=transparent&hide_border=true&text_color=#ab20fd" width="48%" />
+  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=Sandhit06&show_icons=true&theme=transparent&hide_border=true&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sandhit06&theme=2077" width="48%" />
 
   <br><br>
@@ -104,5 +104,7 @@ Reach-me-at: sandhitkarmakar@gmail.com
 
 <img src="https://capsule-render.vercel.app/api?type=soft&height=120&width=200&color=000000&text=Follow%20for%20Follow%20Back!&fontColor=FFD700&fontSize=40&animation=blinking" 
      style="display: block; margin: auto;">
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczV4ZnE1N2gzYm1hdWY1YnRrM3JwbGJzbWNwdHBnZjc5M2FldG00cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3zz2ihAv6L1HEE1U4G/giphy.gif" alt="Hacker Style GIF" width="100%">
 
 
