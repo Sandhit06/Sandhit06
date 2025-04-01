@@ -82,13 +82,18 @@ Reach-me-at: sandhitkarmakar@gmail.com
 [![Sandhit06's GitHub | Languages Over Time](https://stats.quira.sh/Sandhit06/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Sandhit06)
 [![Sandhit06's GitHub | Topics Over Time](https://stats.quira.sh/Sandhit06/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Sandhit06) -->
 
-![Sandhit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandhit06&show_icons=true&theme=transparent&hide_border=true&text_color=#ab20fd)
+<div align="center">
+  <!-- First Row: GitHub Stats & Most Commit Language -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Sandhit06&show_icons=true&theme=transparent&hide_border=true&text_color=#ab20fd" width="48%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sandhit06&theme=2077" width="48%" />
 
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sandhit06&theme=2077" height="210em" alt="Top languages by commit" />
+  <br><br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sandhit06&theme=hacker)](https://git.io/streak-stats)
+  <!-- Second Row: GitHub Streak & Most Used Languages -->
+  <img src="https://streak-stats.demolab.com?user=Sandhit06&theme=hacker" width="58%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandhit06&layout=compact&theme=transparent&hide_border=true&show_icons=true" width="40%" />
+</div>
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandhit06&layout=compact&theme=transparent&hide_border=true&show_icons=true )
 
 <p>
  <div align=center>  
