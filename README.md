@@ -6,7 +6,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&width=325&lines=Hii+%F0%9F%91%8B+I'm+Sandhit;Happy+Stalking+!+" alt="Typing SVG" /></a>
 </div>
 
-<h3 align="center">Developer with No Rizzz !</h3>
+<p align="center">
+  <img src="yellow-text.svg" width="400">
+</p>
 
 <p align="left"> <img src="https://camo.githubusercontent.com/1ea65d0a5ae84766cf2b6ab7f3d8bb0619554d37bf9f96f836a5c8c1c21faf23/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d73756a61796768307368266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="sandhit06" /> </p>
 
