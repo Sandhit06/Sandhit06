@@ -70,7 +70,7 @@ Reach-me-at: sandhitkarmakar@gmail.com
 <p align="left">
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,react,express,tailwind,c,cpp,dart,docker,figma,flutter,firebase,gcp,aws,java,kotlin,linux,mongodb,nextjs,postman,pr,tensorflow,vscode,xd,ai,git,kubernetes,docker,c"
+      src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,c,cpp,cs,java,spring,python,flask,go,dotnet,react,nodejs,ts,express,tailwind,nextjs,postman,redis,dart,flutter,kotlin,firebase,gcp,aws,azure,linux,kali,mongodb,postgres,mysql,supabase,prisma,tensorflow,anaconda,vscode,androidstudio,xd,ai,pr,git,figma,kubernetes,docker"
     />
   </a>
 </p>
