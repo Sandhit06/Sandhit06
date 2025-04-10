@@ -81,10 +81,10 @@ Reach-me-at: sandhitkarmakar@gmail.com
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sandhit_06?ext=contest)
 
 <p align="center">
-  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" alt="jyot" height="200" width="200" /></a>
+   <a href="https://leetcode.com/u/sandhit_06/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/u/sandhit_06/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/u/sandhit_06/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/u/sandhit_06/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="200" width="200" /></a>
 </p>
 
 
