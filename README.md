@@ -113,7 +113,7 @@ Reach-me-at: sandhitkarmakar@gmail.com
  <div align=center>  
   </div>
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandhit06&bg_color=242424&color=e1dbe1&line=3eda58&point=ffffff&area=true&hide_border=true)%5D(https://github.com/ashutosh00710/github-readme-activity-graph" width="100%" alt="github activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandhit06&&theme=react-dark&color=e1dbe1&line=3eda58&point=ffffff&area=true" width="100%" alt="github activity graph"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&height=120&width=200&color=000000&text=Follow%20for%20Follow%20Back!&fontColor=FFD700&fontSize=40&animation=blinking" 
