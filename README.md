@@ -19,13 +19,13 @@
 ```yaml
 Name: Sandhit Karmakar
 Pronouns: He/Him
-Occupation: Student
+Occupation: Developer
 Branch: Computer Science Engineering Spec. AI & ML
 University: Vellore Institute of Technology, Chennai
 Location: Chennai
 Interests: Cybersecurity, Cosmology
 Currently-Learning: React
-Hobbies: Table Tennis, PS5
+Hobbies: Table Tennis, PS5 🎮
 Ask me about: Android Development
 Reach-me-at: sandhitkarmakar@gmail.com
 ```
