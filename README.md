@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <img alt="Sandhit Karmakar — software engineer profile" src="./dark.svg" width="100%">
+</picture>
+
 ![Banner](github.png)
 
 ![Animated Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
@@ -29,11 +35,7 @@ Hobbies: Table Tennis, PS5 🎮
 Ask me about: Android Development
 Reach-me-at: sandhitkarmakar@gmail.com
 ```
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-  <img alt="Sandhit Karmakar — software engineer profile" src="./dark.svg" width="100%">
-</picture>
+
 
 <h2 align="left">🧑🏻‍💻 &nbsp; Connect with me 
   <img src="https://media.tenor.com/SGsJK81GW9oAAAAi/shark-lost-connection-lost-connection.gif" width="35px">
