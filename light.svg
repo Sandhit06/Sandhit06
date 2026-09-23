@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1370" height="720" viewBox="0 0 1370 720" role="img" aria-labelledby="title desc">
 <title id="title">Sandhit Karmakar · software engineer</title><desc id="desc">Terminal-style profile with a pointillist portrait and professional details.</desc>
-<rect width="1370" height="720" fill="#f7f9ff"/><rect x="32" y="34" width="1306" height="652" rx="20" fill="#f7f9ff" stroke="#087b93" stroke-width="1.5"/>
+<defs><linearGradient id="edge"><stop stop-color="#7654b7"><animate attributeName="stop-color" values="#7654b7;#087b93;#7654b7" dur="9s" repeatCount="indefinite"/></stop><stop offset="1" stop-color="#087b93"><animate attributeName="stop-color" values="#087b93;#7654b7;#087b93" dur="9s" repeatCount="indefinite"/></stop></linearGradient></defs><rect width="1370" height="720" fill="#f7f9ff"/><rect x="32" y="34" width="1306" height="652" rx="20" fill="#f7f9ff" stroke="url(#edge)" stroke-width="2"/>
 <path d="M33 85 H1337" stroke="#cad5e4"/><circle cx="63" cy="60" r="6" fill="#ff695e"/><circle cx="86" cy="60" r="6" fill="#ffbd4b"/><circle cx="109" cy="60" r="6" fill="#30cd65"/>
 <text x="685" y="64" text-anchor="middle" fill="#50617b" font-size="13" font-family="monospace">sandhit06@github ~ % ./profile.sh --live</text>
 <text x="70" y="113" fill="#50617b" font-size="11" letter-spacing="4" font-family="monospace">VISUAL.MAP</text>
 <rect x="69" y="123" width="443" height="525" fill="#eef3fa" stroke="#087b93" stroke-opacity=".65"/>
 <path d="M69 139 v-16 h16 M496 123 h16 v16 M69 632 v16 h16 M496 648 h16 v-16" fill="none" stroke="#087b93" stroke-width="2"/>
-<g fill="#7654b7">
+<g fill="#7654b7" opacity="0"><animate attributeName="opacity" values="0;1" begin="0.20s" dur=".65s" fill="freeze"/>
 <circle cx="257" cy="140" r="0.66" opacity="0.5"/>
 <circle cx="263" cy="140" r="0.66" opacity="0.49"/>
 <circle cx="272" cy="140" r="0.66" opacity="0.46"/>
@@ -1129,6 +1129,8 @@
 <circle cx="344" cy="227" r="0.66" opacity="0.42"/>
 <circle cx="362" cy="227" r="0.66" opacity="0.42"/>
 <circle cx="371" cy="227" r="0.66" opacity="0.41"/>
+</g>
+<g fill="#7654b7" opacity="0"><animate attributeName="opacity" values="0;1" begin="0.42s" dur=".65s" fill="freeze"/>
 <circle cx="164" cy="230" r="0.66" opacity="0.51"/>
 <circle cx="167" cy="230" r="0.66" opacity="0.49"/>
 <circle cx="170" cy="230" r="0.66" opacity="0.47"/>
@@ -2813,6 +2815,8 @@
 <circle cx="374" cy="329" r="0.66" opacity="0.45"/>
 <circle cx="377" cy="329" r="0.66" opacity="0.46"/>
 <circle cx="383" cy="329" r="0.66" opacity="0.46"/>
+</g>
+<g fill="#7654b7" opacity="0"><animate attributeName="opacity" values="0;1" begin="0.64s" dur=".65s" fill="freeze"/>
 <circle cx="152" cy="332" r="0.66" opacity="0.43"/>
 <circle cx="161" cy="332" r="0.66" opacity="0.44"/>
 <circle cx="164" cy="332" r="0.66" opacity="0.45"/>
@@ -4126,6 +4130,8 @@
 <circle cx="335" cy="428" r="0.8" opacity="0.55"/>
 <circle cx="341" cy="428" r="0.66" opacity="0.53"/>
 <circle cx="344" cy="428" r="0.66" opacity="0.53"/>
+</g>
+<g fill="#7654b7" opacity="0"><animate attributeName="opacity" values="0;1" begin="0.86s" dur=".65s" fill="freeze"/>
 <circle cx="197" cy="431" r="0.66" opacity="0.45"/>
 <circle cx="206" cy="431" r="0.66" opacity="0.46"/>
 <circle cx="209" cy="431" r="0.66" opacity="0.47"/>
@@ -5289,6 +5295,8 @@
 <circle cx="389" cy="527" r="0.66" opacity="0.42"/>
 <circle cx="392" cy="527" r="0.66" opacity="0.52"/>
 <circle cx="398" cy="527" r="0.66" opacity="0.51"/>
+</g>
+<g fill="#7654b7" opacity="0"><animate attributeName="opacity" values="0;1" begin="1.08s" dur=".65s" fill="freeze"/>
 <circle cx="128" cy="530" r="0.66" opacity="0.5"/>
 <circle cx="131" cy="530" r="0.66" opacity="0.47"/>
 <circle cx="134" cy="530" r="0.66" opacity="0.52"/>
@@ -7470,55 +7478,85 @@
 <circle cx="446" cy="620" r="0.66" opacity="0.53"/>
 <circle cx="449" cy="620" r="0.8" opacity="0.55"/>
 </g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin=".45s" dur=".5s" fill="freeze"/>
 <text x="550" y="148" fill="#087b93" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" font-weight="bold" letter-spacing="2">SYSTEM.INFO</text>
 <path d="M680 144 H1205" stroke="#cad5e4"/>
 <text x="1278" y="148" fill="#7654b7" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" font-weight="bold" text-anchor="end">● LIVE</text>
 <rect x="550" y="165" width="303" height="24" rx="5" fill="#7654b7"/>
 <text x="561" y="182" fill="#ffffff" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" font-weight="bold">sandhit06@github.com</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.80s" dur=".45s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-10 0;0 0" begin="0.80s" dur=".45s" fill="freeze"/>
 <text x="550" y="213" fill="#087b93" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" font-weight="normal">Subject</text>
 <path d="M627 209 H1104" stroke="#aab8cc" stroke-dasharray="2 7" stroke-linecap="round"/>
 <text x="1276" y="213" fill="#182337" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" font-weight="bold" text-anchor="end">Sandhit Karmakar</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.94s" dur=".45s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-10 0;0 0" begin="0.94s" dur=".45s" fill="freeze"/>
 <text x="550" y="238" fill="#087b93" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" font-weight="normal">Role</text>
 <path d="M600 234 H1095" stroke="#aab8cc" stroke-dasharray="2 7" stroke-linecap="round"/>
 <text x="1276" y="238" fill="#182337" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" font-weight="bold" text-anchor="end">Software Engineer</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.08s" dur=".45s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-10 0;0 0" begin="1.08s" dur=".45s" fill="freeze"/>
 <text x="550" y="263" fill="#087b93" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" font-weight="normal">Education</text>
 <path d="M645 259 H1068" stroke="#aab8cc" stroke-dasharray="2 7" stroke-linecap="round"/>
 <text x="1276" y="263" fill="#182337" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" font-weight="bold" text-anchor="end">B.Tech CSE · AI &amp; ML</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.22s" dur=".45s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-10 0;0 0" begin="1.22s" dur=".45s" fill="freeze"/>
 <text x="550" y="288" fill="#087b93" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" font-weight="normal">Focus</text>
 <path d="M609 284 H987" stroke="#aab8cc" stroke-dasharray="2 7" stroke-linecap="round"/>
 <text x="1276" y="288" fill="#182337" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" font-weight="bold" text-anchor="end">Backend · Cloud · AI products</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.36s" dur=".45s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-10 0;0 0" begin="1.36s" dur=".45s" fill="freeze"/>
 <text x="550" y="313" fill="#087b93" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" font-weight="normal">Status</text>
 <path d="M618 309 H978" stroke="#aab8cc" stroke-dasharray="2 7" stroke-linecap="round"/>
 <text x="1276" y="313" fill="#182337" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" font-weight="bold" text-anchor="end">Building + Learning + Shipping</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.50s" dur=".45s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-10 0;0 0" begin="1.50s" dur=".45s" fill="freeze"/>
 <text x="550" y="338" fill="#087b93" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" font-weight="normal">ToolChain</text>
 <path d="M645 334 H987" stroke="#aab8cc" stroke-dasharray="2 7" stroke-linecap="round"/>
 <text x="1276" y="338" fill="#182337" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" font-weight="bold" text-anchor="end">VS Code, Git, Postman, Docker</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.64s" dur=".45s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-10 0;0 0" begin="1.64s" dur=".45s" fill="freeze"/>
 <text x="550" y="377" fill="#087b93" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" font-weight="normal">Core.Lang</text>
 <path d="M645 373 H996" stroke="#aab8cc" stroke-dasharray="2 7" stroke-linecap="round"/>
 <text x="1276" y="377" fill="#182337" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" font-weight="bold" text-anchor="end">Java, Python, C#, TypeScript</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.78s" dur=".45s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-10 0;0 0" begin="1.78s" dur=".45s" fill="freeze"/>
 <text x="550" y="402" fill="#087b93" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" font-weight="normal">Core.Frontend</text>
 <path d="M681 398 H1041" stroke="#aab8cc" stroke-dasharray="2 7" stroke-linecap="round"/>
 <text x="1276" y="402" fill="#182337" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" font-weight="bold" text-anchor="end">React, Next.js, Flutter</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.92s" dur=".45s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-10 0;0 0" begin="1.92s" dur=".45s" fill="freeze"/>
 <text x="550" y="427" fill="#087b93" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" font-weight="normal">Core.Backend</text>
 <path d="M672 423 H1014" stroke="#aab8cc" stroke-dasharray="2 7" stroke-linecap="round"/>
 <text x="1276" y="427" fill="#182337" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" font-weight="bold" text-anchor="end">Spring Boot, .NET, FastAPI</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.06s" dur=".45s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-10 0;0 0" begin="2.06s" dur=".45s" fill="freeze"/>
 <text x="550" y="452" fill="#087b93" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" font-weight="normal">Core.Database</text>
 <path d="M681 448 H1077" stroke="#aab8cc" stroke-dasharray="2 7" stroke-linecap="round"/>
 <text x="1276" y="452" fill="#182337" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" font-weight="bold" text-anchor="end">PostgreSQL, MongoDB</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.20s" dur=".45s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-10 0;0 0" begin="2.20s" dur=".45s" fill="freeze"/>
 <text x="550" y="477" fill="#087b93" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" font-weight="normal">Core.Systems</text>
 <path d="M672 473 H1068" stroke="#aab8cc" stroke-dasharray="2 7" stroke-linecap="round"/>
 <text x="1276" y="477" fill="#182337" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" font-weight="bold" text-anchor="end">AWS, Kafka, RabbitMQ</text>
+</g>
 <text x="550" y="526" fill="#50617b" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" font-weight="normal">— Contact</text>
 <path d="M657 522 H1276" stroke="#cad5e4"/>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.20s" dur=".45s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-10 0;0 0" begin="2.20s" dur=".45s" fill="freeze"/>
 <text x="550" y="552" fill="#087b93" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" font-weight="normal">Grid.Mail</text>
 <path d="M645 548 H1023" stroke="#aab8cc" stroke-dasharray="2 7" stroke-linecap="round"/>
 <text x="1276" y="552" fill="#182337" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" font-weight="bold" text-anchor="end">sandhitkarmakar@gmail.com</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.20s" dur=".45s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-10 0;0 0" begin="2.20s" dur=".45s" fill="freeze"/>
 <text x="550" y="578" fill="#087b93" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" font-weight="normal">Grid.LinkedIn</text>
 <path d="M681 574 H1068" stroke="#aab8cc" stroke-dasharray="2 7" stroke-linecap="round"/>
 <text x="1276" y="578" fill="#182337" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" font-weight="bold" text-anchor="end">/in/sandhit-karmakar</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.20s" dur=".45s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-10 0;0 0" begin="2.20s" dur=".45s" fill="freeze"/>
 <text x="550" y="604" fill="#087b93" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" font-weight="normal">Grid.GitHub</text>
 <path d="M663 600 H1158" stroke="#aab8cc" stroke-dasharray="2 7" stroke-linecap="round"/>
 <text x="1276" y="604" fill="#182337" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" font-weight="bold" text-anchor="end">@Sandhit06</text>
+</g>
 <text x="550" y="654" fill="#50617b" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" font-weight="normal">› More about me &amp; projects below in README ↓</text>
-<rect x="1010" y="639" width="7" height="16" fill="#087b93" opacity=".7"/>
+<rect x="1010" y="639" width="7" height="16" fill="#087b93" opacity=".7"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
 </svg>
