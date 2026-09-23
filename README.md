@@ -1,135 +1,85 @@
+<!-- Animated SVGs are self-contained: no JavaScript or video player required. -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sandhit06/Sandhit06/master/dark.svg?v=3">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sandhit06/Sandhit06/master/light.svg?v=3">
-  <img alt="Sandhit Karmakar — software engineer profile" src="https://raw.githubusercontent.com/Sandhit06/Sandhit06/master/light.svg?v=3" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sandhit06/Sandhit06/master/dark.svg?v=4">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sandhit06/Sandhit06/master/light.svg?v=4">
+  <img alt="Sandhit Karmakar — software engineer working with Java, Python, C#, TypeScript, cloud services and AI applications" src="https://raw.githubusercontent.com/Sandhit06/Sandhit06/master/light.svg?v=4" width="100%">
 </picture>
 
-![Banner](github.png)
-
-![Animated Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
-
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&width=325&lines=Hii+%F0%9F%91%8B+I'm+Sandhit;Happy+Stalking+!+" alt="Typing SVG" /></a>
-</div>
-
-<h3 align="center">Developer with No Rizzz !</h3>
-
-<br>
-
-<!-- Profile Visits -->
-<img src="https://komarev.com/ghpvc/?username=sandhit06&label=Profile+Visits&color=6e40c9&style=flat-square" alt="Profile Views"/>
-
-
-<img align="right" alt="Hacker GIF" width="400" height="221" src="https://i.redd.it/n8agw6z2smyb1.gif">
-
-```yaml
-Name: Sandhit Karmakar
-Pronouns: He/Him
-Occupation: Developer
-Branch: Computer Science Engineering Spec. AI & ML
-University: Vellore Institute of Technology, Chennai
-Location: Chennai
-Interests: Cybersecurity, Cosmology
-Currently-Learning: React
-Hobbies: Table Tennis, PS5 🎮
-Ask me about: Android Development
-Reach-me-at: sandhitkarmakar@gmail.com
-```
-
-
-<h2 align="left">🧑🏻‍💻 &nbsp; Connect with me 
-  <img src="https://media.tenor.com/SGsJK81GW9oAAAAi/shark-lost-connection-lost-connection.gif" width="35px">
-</h2> 
-
-<div align="left">
-  <a href="https://dev.to/sandhit06" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sandhit06" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/sandhitk" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sandhitk" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/sandhit-karmakar" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandhit-karmakar" height="30" width="40" />
-  </a>
-  <a href="https://stackoverflow.com/users/22609588" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22609588" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/sandhit_06" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sandhit_06" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/rizdhitz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandhit" height="30" width="40" /></a>
-</div>
-
-<br>
-
-<!-- Add spacing between social links and the dev card -->
-<a href="https://app.daily.dev/sandhit06">
-  <img src="https://api.daily.dev/devcards/v2/auKpGoem3WLkNiWSDkbnT.png?type=default&r=hp0" width="360" alt="Sandhit's Dev Card"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=uden22m7keq52iqa3zonzjr0y&redirect=true" style="vertical-align: top;">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=uden22m7keq52iqa3zonzjr0y&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false" alt="Spotify Now Playing"/>
-</a>
-
-<!-- <p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=uden22m7keq52iqa3zonzjr0y&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=uden22m7keq52iqa3zonzjr0y&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false">
-  </a>
-</p> -->
-
-
-
-<h2 align="left">📚 &nbsp; Languages and Tools <img src = "https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif" width = 35px></h2>
-<p align="left">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,c,cpp,cs,java,spring,python,flask,go,dotnet,react,nodejs,ts,express,tailwind,nextjs,postman,redis,dart,flutter,kotlin,firebase,gcp,aws,azure,linux,kali,mongodb,postgres,mysql,supabase,prisma,tensorflow,anaconda,vscode,androidstudio,xd,ai,pr,git,figma,kubernetes,docker"
-    />
-  </a>
-</p>
-
-
-<h2> 📈 &nbsp;LeetCode Stats! <img src = "https://media.tenor.com/LSHKMiRdLggAAAAi/statistics-trending-up.gif" width = 35px></h2>
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/sandhit_06?ext=contest)
-
 <p align="center">
-   <a href="https://leetcode.com/u/sandhit_06/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/u/sandhit_06/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/u/sandhit_06/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/u/sandhit_06/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://www.linkedin.com/in/sandhit-karmakar/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:sandhitkarmakar@gmail.com">Email</a> &nbsp;·&nbsp;
+  <a href="https://leetcode.com/u/sandhit_06/">LeetCode</a> &nbsp;·&nbsp;
+  <a href="https://github.com/Sandhit06?tab=repositories">All repositories</a>
 </p>
 
+### About me
 
-<h2> <img src="https://media.tenor.com/LSHKMiRdLggAAAAi/statistics-trending-up.gif" width="35px">  &nbsp;My GitHub History! 📈</h2>
+I'm **Sandhit**, a software engineer interested in backend systems, cloud infrastructure, and useful AI applications. I enjoy connecting the pieces—from APIs and databases to the interface people use—and making them easier to understand, test, and maintain.
 
-![3d-profile](profile-3d-contrib/profile-night-green.svg)
+B.Tech in Computer Science **(AI & ML)** from **VIT Chennai**. Away from code: table tennis, gaming, and cosmology.
 
-<!-- [![Sandhit06's GitHub | Stats](https://stats.quira.sh/Sandhit06/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Sandhit06)
-[![Sandhit06's GitHub | Languages Over Time](https://stats.quira.sh/Sandhit06/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Sandhit06)
-[![Sandhit06's GitHub | Topics Over Time](https://stats.quira.sh/Sandhit06/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Sandhit06) -->
+### Selected projects
 
-<div align="center">
-  <!-- First Row: GitHub Stats & Most Commit Language -->
-  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=Sandhit06&show_icons=true&theme=transparent&hide_border=true&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sandhit06&theme=2077" width="48%" />
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Sandhit06/QueryLens_AI">QueryLens AI ↗</a></h3>
+<p>A conversational interface for exploring datasets, with answer validation and integration with a separate FastAPI service.</p>
+<p><code>React</code> <code>Python / FastAPI</code> <code>Clerk</code></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Sandhit06/Distributed-Bank">Distributed Bank ↗</a></h3>
+<p>A banking microservices sample exploring service boundaries, messaging, API gateways, and resilience patterns.</p>
+<p><code>.NET</code> <code>gRPC</code> <code>RabbitMQ</code></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Sandhit06/Interview-Platform-Using-React-Next.js">CodeNexus ↗</a></h3>
+<p>An interview platform with video calls, screen sharing, recording, and authenticated interview workflows.</p>
+<p><code>Next.js</code> <code>TypeScript</code> <code>Stream</code></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Sandhit06/OrderFlow">OrderFlow ↗</a></h3>
+<p>An order-processing learning project exploring idempotency, transactional messaging, inventory, and failure recovery.</p>
+<p><code>Java / Spring Boot</code> <code>Kafka</code> <code>PostgreSQL</code></p>
+</td>
+</tr>
+</table>
 
-  <br><br>
+### Technology I work with
 
-  <!-- Second Row: GitHub Streak & Most Used Languages -->
-  <img src="https://streak-stats.demolab.com?user=Sandhit06&theme=hacker" width="58%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandhit06&layout=compact&theme=transparent&hide_border=true&show_icons=true" width="40%" />
-</div>
+| Area | Tools |
+| :--- | :--- |
+| Languages | Java · Python · C# · TypeScript · Dart |
+| Backend | Spring Boot · ASP.NET Core · FastAPI · Node.js |
+| Frontend & mobile | React · Next.js · Flutter |
+| Data & messaging | PostgreSQL · MongoDB · Redis · Kafka · RabbitMQ |
+| Cloud & development | AWS · Docker · Git · Postman |
 
+### Contribution activity
 
-<p>
- <div align=center>  
-  </div>
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandhit06&&theme=react-dark&color=e1dbe1&line=3eda58&point=ffffff&area=true" width="100%" alt="github activity graph"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-view.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green.svg">
+  <img src="./profile-3d-contrib/profile-green.svg" alt="Sandhit's GitHub contribution history, generated by the repository's existing workflow" width="100%">
+</picture>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=120&width=200&color=000000&text=Follow%20for%20Follow%20Back!&fontColor=FFD700&fontSize=40&animation=blinking" 
-     style="display: block; margin: auto;">
+<details>
+<summary><b>Problem solving & more</b></summary>
 
-<img alt="Hacker GIF" src="https://miro.medium.com/v2/resize:fit:1400/0*Gh_H2-2Pe2SyfAkb.gif">
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/sandhit_06?theme=dark&amp;font=Source%20Code%20Pro&amp;ext=contest">
+  <img src="https://leetcard.jacoblin.cool/sandhit_06?theme=light&amp;font=Source%20Code%20Pro&amp;ext=contest" alt="LeetCode statistics for sandhit_06" width="495">
+</picture>
+
+[LeetCode profile](https://leetcode.com/u/sandhit_06/) · [DEV Community](https://dev.to/sandhit06) · [Stack Overflow](https://stackoverflow.com/users/22609588) · [X](https://twitter.com/sandhitk) · [Instagram](https://www.instagram.com/rizdhitz/)
+
+[What I'm listening to on Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=uden22m7keq52iqa3zonzjr0y&redirect=true) · [daily.dev](https://app.daily.dev/sandhit06)
+
+</details>
+
+---
+
+<p align="center"><sub>Building, learning, and shipping. One project at a time.</sub></p>
