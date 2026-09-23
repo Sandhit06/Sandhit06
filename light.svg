@@ -6,6 +6,7 @@
 <text x="70" y="113" fill="#50617b" font-size="11" letter-spacing="4" font-family="monospace">VISUAL.MAP</text>
 <rect x="69" y="123" width="443" height="525" fill="#eef3fa" stroke="#087b93" stroke-opacity=".65"/>
 <path d="M69 139 v-16 h16 M496 123 h16 v16 M69 632 v16 h16 M496 648 h16 v-16" fill="none" stroke="#087b93" stroke-width="2"/>
+<g><animate attributeName="opacity" values="1;.58;1" dur="2.8s" repeatCount="indefinite"/>
 <g fill="#51348f" opacity="0"><animate attributeName="opacity" values="0;1" begin="0.20s" dur=".65s" fill="freeze"/>
 <circle cx="257" cy="140" r="1.02" opacity="0.72"/>
 <circle cx="263" cy="140" r="1.02" opacity="0.71"/>
@@ -7478,6 +7479,9 @@
 <circle cx="446" cy="620" r="1.02" opacity="0.77"/>
 <circle cx="449" cy="620" r="1.24" opacity="0.8"/>
 </g>
+</g>
+<rect x="75" y="130" width="390" height="14" fill="#087b93" opacity=".16"><animate attributeName="y" values="130;630;130" dur="4.4s" repeatCount="indefinite"/></rect>
+<line x1="75" y1="130" x2="465" y2="130" stroke="#087b93" stroke-width="2" opacity=".5"><animate attributeName="y1" values="130;630;130" dur="4.4s" repeatCount="indefinite"/><animate attributeName="y2" values="130;630;130" dur="4.4s" repeatCount="indefinite"/></line>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin=".45s" dur=".5s" fill="freeze"/>
 <text x="550" y="148" fill="#087b93" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" font-weight="bold" letter-spacing="2">SYSTEM.INFO</text>
 <path d="M680 144 H1205" stroke="#cad5e4"/>
